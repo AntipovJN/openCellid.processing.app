@@ -1,0 +1,728 @@
+2019-10-10 19:36:13 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write. 0 lines was failed
+2019-10-10 19:36:13 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write. 0 lines was failed
+2019-10-10 19:36:13 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write. 0 lines was failed
+2019-10-10 19:36:13 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write. 0 lines was failed
+2019-10-10 19:36:13 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write. 0 lines was failed
+2019-10-10 19:36:13 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write. 0 lines was failed
+2019-10-10 19:36:13 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write. 0 lines was failed
+2019-10-10 19:36:13 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write. 0 lines was failed
+2019-10-10 19:36:13 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write. 0 lines was failed
+2019-10-10 19:36:13 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write. 0 lines was failed
+2019-10-10 19:52:47 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 19:52:47 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 19:52:49 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 19:59:39 WARN  OpenCellIdParser:38 - Invalid data in line: (GSM,255,1,9520,45661,0,29.233932495117,48.692asd092895508,1000,1,1,1459676549,1459676549,0)
+java.lang.NumberFormatException: For input string: "48.692asd092895508"
+	at sun.misc.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2043)
+	at sun.misc.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.lang.Double.parseDouble(Double.java:538)
+	at java.lang.Double.valueOf(Double.java:502)
+	at parser.OpenCellIdParser.parseFile(OpenCellIdParser.java:32)
+	at Main.main(Main.java:18)
+2019-10-10 19:59:40 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 19:59:40 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:46 - Done, 1145 lines was write.
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:50 - 0,001 operations/sec
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:46 - Done, 1145 lines was write.
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:46 - Done, 1145 lines was write.
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:46 - Done, 1145 lines was write.
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:46 - Done, 1145 lines was write.
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:46 - Done, 1145 lines was write.
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:46 - Done, 1145 lines was write.
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:46 - Done, 1145 lines was write.
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:46 - Done, 1145 lines was write.
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:46 - Done, 1145 lines was write.
+2019-10-10 19:59:41 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:01:26 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:01:26 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:50 - 0,0006 operations/sec
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:01:28 INFO  OpenCellIdServiceImpl:50 - 0,0006 operations/sec
+2019-10-10 20:02:02 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:02:02 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:04 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:02:17 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:02:17 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:02:18 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:06:42 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:07:21 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:07:21 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:07:22 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:07:41 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:09:08 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:09:08 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:09:22 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:09:22 INFO  OpenCellIdServiceImpl:50 - 8e-05 operations/sec
+2019-10-10 20:09:30 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:09:30 INFO  OpenCellIdServiceImpl:50 - 5e-05 operations/sec
+2019-10-10 20:09:31 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:09:32 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:09:32 INFO  OpenCellIdServiceImpl:50 - 5e-05 operations/sec
+2019-10-10 20:09:32 INFO  OpenCellIdServiceImpl:50 - 5e-05 operations/sec
+2019-10-10 20:09:33 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:09:33 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:09:33 INFO  OpenCellIdServiceImpl:50 - 4e-05 operations/sec
+2019-10-10 20:09:33 INFO  OpenCellIdServiceImpl:50 - 4e-05 operations/sec
+2019-10-10 20:09:34 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:09:34 INFO  OpenCellIdServiceImpl:50 - 4e-05 operations/sec
+2019-10-10 20:09:35 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:09:35 INFO  OpenCellIdServiceImpl:50 - 4e-05 operations/sec
+2019-10-10 20:09:37 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:09:37 INFO  OpenCellIdServiceImpl:50 - 4e-05 operations/sec
+2019-10-10 20:09:38 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:09:38 INFO  OpenCellIdServiceImpl:50 - 4e-05 operations/sec
+2019-10-10 20:09:58 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:09:58 INFO  OpenCellIdServiceImpl:50 - 0,0003 operations/sec
+2019-10-10 20:10:28 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:10:28 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:10:29 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:10:58 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:11:46 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:11:46 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:11:47 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:13:19 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:13:23 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:13:23 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:13:24 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:13:24 INFO  OpenCellIdServiceImpl:50 - 0,001 operations/sec
+2019-10-10 20:13:24 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:13:24 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:13:24 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:13:24 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:13:24 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:13:24 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:13:24 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:13:24 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:13:24 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:13:24 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:13:25 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:13:25 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:13:25 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:13:25 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:13:25 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:13:25 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:13:25 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:13:25 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:13:58 INFO  OpenCellIdServiceImpl:46 - Done, 0 lines was write.
+2019-10-10 20:13:58 INFO  OpenCellIdServiceImpl:50 - 0 operations/sec
+2019-10-10 20:16:39 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:16:39 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:50 - 0,001 operations/sec
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:16:40 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:17:41 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:17:41 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:17:43 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:18:17 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:18:17 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:50 - 0,001 operations/sec
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:18:18 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:18:32 INFO  OpenCellIdServiceImpl:46 - Done, 0 lines was write.
+2019-10-10 20:18:32 INFO  OpenCellIdServiceImpl:50 - 0 operations/sec
+2019-10-10 20:19:25 INFO  OpenCellIdServiceImpl:46 - Done, 0 lines was write.
+2019-10-10 20:19:25 INFO  OpenCellIdServiceImpl:50 - 0 operations/sec
+2019-10-10 20:24:10 INFO  OpenCellIdServiceImpl:46 - Done, 0 lines was write.
+2019-10-10 20:24:10 INFO  OpenCellIdServiceImpl:50 - 0 operations/sec
+2019-10-10 20:24:30 INFO  OpenCellIdServiceImpl:46 - Done, 0 lines was write.
+2019-10-10 20:24:30 INFO  OpenCellIdServiceImpl:50 - 0 operations/sec
+2019-10-10 20:24:53 INFO  OpenCellIdServiceImpl:46 - Done, 0 lines was write.
+2019-10-10 20:24:53 INFO  OpenCellIdServiceImpl:50 - 0 operations/sec
+2019-10-10 20:28:20 INFO  OpenCellIdServiceImpl:46 - Done, 0 lines was write.
+2019-10-10 20:28:20 INFO  OpenCellIdServiceImpl:50 - 0 operations/sec
+2019-10-10 20:30:43 INFO  OpenCellIdServiceImpl:46 - Done, 136 lines was write.
+2019-10-10 20:30:43 INFO  OpenCellIdServiceImpl:50 - 0,001 operations/sec
+2019-10-10 20:33:29 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:33:29 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:33:30 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-10 20:34:13 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:34:13 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:50 - 0,0009 operations/sec
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 20:34:15 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 21:21:32 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 21:21:32 INFO  OpenCellIdServiceImpl:50 - 0,002 operations/sec
+2019-10-10 21:40:49 WARN  OpenCellIdParser:38 - Invalid data in line: (GSM,255,1,9520,45661,0,29.233932495117,48.692092895508,1000,1,1,1459676549,)
+java.lang.ArrayIndexOutOfBoundsException: 12
+	at parser.OpenCellIdParser.parseFile(OpenCellIdParser.java:34)
+	at Main.main(Main.java:18)
+2019-10-10 21:40:50 INFO  OpenCellIdServiceImpl:46 - Done, 1145 lines was write.
+2019-10-10 21:40:50 INFO  OpenCellIdServiceImpl:50 - 0,002 operations/sec
+2019-10-10 21:43:07 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 21:43:07 INFO  OpenCellIdServiceImpl:50 - 0,002 operations/sec
+2019-10-10 21:46:51 ERROR OpenCellIdDaoFactory:22 - Failed initialization of DAO Layer
+org.postgresql.util.PSQLException: ОШИБКА: ошибка синтаксиса (примерное положение: "area")
+  Позиция: 106
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2468)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2211)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:309)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:446)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:370)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:149)
+	at org.postgresql.jdbc.PgPreparedStatement.execute(PgPreparedStatement.java:138)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.createTable(OpenCellIdDaoJDBCImpl.java:116)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.<init>(OpenCellIdDaoJDBCImpl.java:22)
+	at factory.OpenCellIdDaoFactory.getInstance(OpenCellIdDaoFactory.java:20)
+	at service.OpenCellIdServiceImpl.build(OpenCellIdServiceImpl.java:33)
+	at factory.OpenCellIdServiceFactory.getInstance(OpenCellIdServiceFactory.java:15)
+	at Main.main(Main.java:19)
+2019-10-10 21:47:26 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 21:47:26 INFO  OpenCellIdServiceImpl:50 - 0,002 operations/sec
+2019-10-10 21:47:51 ERROR OpenCellIdDaoFactory:22 - Failed initialization of DAO Layer
+org.postgresql.util.PSQLException: ОШИБКА: отношение "opencellid_id_uindex" уже существует
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2468)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2211)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:309)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:446)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:370)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:149)
+	at org.postgresql.jdbc.PgPreparedStatement.execute(PgPreparedStatement.java:138)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.createTable(OpenCellIdDaoJDBCImpl.java:116)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.<init>(OpenCellIdDaoJDBCImpl.java:22)
+	at factory.OpenCellIdDaoFactory.getInstance(OpenCellIdDaoFactory.java:20)
+	at service.OpenCellIdServiceImpl.build(OpenCellIdServiceImpl.java:33)
+	at factory.OpenCellIdServiceFactory.getInstance(OpenCellIdServiceFactory.java:15)
+	at Main.main(Main.java:19)
+2019-10-10 21:47:51 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:47:51 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:48:24 ERROR OpenCellIdDaoFactory:22 - Failed initialization of DAO Layer
+org.postgresql.util.PSQLException: ОШИБКА: отношение "opencellid_id_uindex" уже существует
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2468)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2211)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:309)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:446)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:370)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:149)
+	at org.postgresql.jdbc.PgPreparedStatement.execute(PgPreparedStatement.java:138)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.createTable(OpenCellIdDaoJDBCImpl.java:116)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.<init>(OpenCellIdDaoJDBCImpl.java:22)
+	at factory.OpenCellIdDaoFactory.getInstance(OpenCellIdDaoFactory.java:20)
+	at service.OpenCellIdServiceImpl.build(OpenCellIdServiceImpl.java:33)
+	at factory.OpenCellIdServiceFactory.getInstance(OpenCellIdServiceFactory.java:15)
+	at Main.main(Main.java:19)
+2019-10-10 21:48:24 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:48:24 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:49:11 ERROR OpenCellIdDaoFactory:22 - Failed initialization of DAO Layer
+org.postgresql.util.PSQLException: ОШИБКА: отношение "opencellid_id_uindex" уже существует
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2468)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2211)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:309)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:446)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:370)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:149)
+	at org.postgresql.jdbc.PgPreparedStatement.execute(PgPreparedStatement.java:138)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.createTable(OpenCellIdDaoJDBCImpl.java:116)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.<init>(OpenCellIdDaoJDBCImpl.java:22)
+	at factory.OpenCellIdDaoFactory.getInstance(OpenCellIdDaoFactory.java:20)
+	at service.OpenCellIdServiceImpl.build(OpenCellIdServiceImpl.java:33)
+	at factory.OpenCellIdServiceFactory.getInstance(OpenCellIdServiceFactory.java:15)
+	at Main.main(Main.java:19)
+2019-10-10 21:49:11 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:49:11 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:50:26 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:50:26 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:50:27 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 21:50:27 INFO  OpenCellIdServiceImpl:50 - 0,002 operations/sec
+2019-10-10 21:50:27 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 21:50:27 INFO  OpenCellIdServiceImpl:50 - 0,001 operations/sec
+2019-10-10 21:50:28 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 21:50:28 INFO  OpenCellIdServiceImpl:50 - 0,0008 operations/sec
+2019-10-10 21:50:28 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 21:50:28 INFO  OpenCellIdServiceImpl:50 - 0,0006 operations/sec
+2019-10-10 21:50:29 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 21:50:29 INFO  OpenCellIdServiceImpl:50 - 0,0005 operations/sec
+2019-10-10 21:50:29 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 21:50:29 INFO  OpenCellIdServiceImpl:50 - 0,0004 operations/sec
+2019-10-10 21:50:30 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 21:50:30 INFO  OpenCellIdServiceImpl:50 - 0,0003 operations/sec
+2019-10-10 21:50:31 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 21:50:31 INFO  OpenCellIdServiceImpl:50 - 0,0003 operations/sec
+2019-10-10 21:50:31 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 21:50:31 INFO  OpenCellIdServiceImpl:50 - 0,0002 operations/sec
+2019-10-10 21:50:32 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 21:50:32 INFO  OpenCellIdServiceImpl:50 - 0,0002 operations/sec
+2019-10-10 21:51:57 ERROR OpenCellIdDaoFactory:22 - Failed initialization of DAO Layer
+org.postgresql.util.PSQLException: ОШИБКА: отношение "opencellid_id_uindex" уже существует
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2468)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2211)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:309)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:446)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:370)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:149)
+	at org.postgresql.jdbc.PgPreparedStatement.execute(PgPreparedStatement.java:138)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.createTable(OpenCellIdDaoJDBCImpl.java:116)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.<init>(OpenCellIdDaoJDBCImpl.java:22)
+	at factory.OpenCellIdDaoFactory.getInstance(OpenCellIdDaoFactory.java:20)
+	at service.OpenCellIdServiceImpl.build(OpenCellIdServiceImpl.java:33)
+	at factory.OpenCellIdServiceFactory.getInstance(OpenCellIdServiceFactory.java:15)
+	at Main.main(Main.java:19)
+2019-10-10 21:51:57 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:51:57 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:53:06 ERROR OpenCellIdDaoFactory:22 - Failed initialization of DAO Layer
+org.postgresql.util.PSQLException: ОШИБКА: ошибка синтаксиса (примерное положение: "if")
+  Позиция: 66
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2468)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2211)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:309)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:446)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:370)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:149)
+	at org.postgresql.jdbc.PgPreparedStatement.execute(PgPreparedStatement.java:138)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.createTable(OpenCellIdDaoJDBCImpl.java:116)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.<init>(OpenCellIdDaoJDBCImpl.java:22)
+	at factory.OpenCellIdDaoFactory.getInstance(OpenCellIdDaoFactory.java:20)
+	at service.OpenCellIdServiceImpl.build(OpenCellIdServiceImpl.java:33)
+	at factory.OpenCellIdServiceFactory.getInstance(OpenCellIdServiceFactory.java:15)
+	at Main.main(Main.java:19)
+2019-10-10 21:53:06 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:53:06 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:54:57 ERROR OpenCellIdDaoFactory:22 - Failed initialization of DAO Layer
+org.postgresql.util.PSQLException: ОШИБКА: отношение "opencellid_id_uindex" уже существует
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2468)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2211)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:309)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:446)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:370)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:149)
+	at org.postgresql.jdbc.PgPreparedStatement.execute(PgPreparedStatement.java:138)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.createTable(OpenCellIdDaoJDBCImpl.java:116)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.<init>(OpenCellIdDaoJDBCImpl.java:22)
+	at factory.OpenCellIdDaoFactory.getInstance(OpenCellIdDaoFactory.java:20)
+	at service.OpenCellIdServiceImpl.build(OpenCellIdServiceImpl.java:33)
+	at factory.OpenCellIdServiceFactory.getInstance(OpenCellIdServiceFactory.java:15)
+	at Main.main(Main.java:19)
+2019-10-10 21:54:57 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:54:57 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:55:16 ERROR OpenCellIdDaoFactory:22 - Failed initialization of DAO Layer
+org.postgresql.util.PSQLException: ОШИБКА: ошибка синтаксиса (примерное положение: "IF")
+  Позиция: 8
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2468)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2211)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:309)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:446)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:370)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:149)
+	at org.postgresql.jdbc.PgPreparedStatement.execute(PgPreparedStatement.java:138)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.createTable(OpenCellIdDaoJDBCImpl.java:116)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.<init>(OpenCellIdDaoJDBCImpl.java:22)
+	at factory.OpenCellIdDaoFactory.getInstance(OpenCellIdDaoFactory.java:20)
+	at service.OpenCellIdServiceImpl.build(OpenCellIdServiceImpl.java:33)
+	at factory.OpenCellIdServiceFactory.getInstance(OpenCellIdServiceFactory.java:15)
+	at Main.main(Main.java:19)
+2019-10-10 21:55:16 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:55:16 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:55:41 ERROR OpenCellIdDaoFactory:22 - Failed initialization of DAO Layer
+org.postgresql.util.PSQLException: ОШИБКА: ошибка синтаксиса (примерное положение: "IF")
+  Позиция: 15
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2468)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2211)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:309)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:446)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:370)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:149)
+	at org.postgresql.jdbc.PgPreparedStatement.execute(PgPreparedStatement.java:138)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.createTable(OpenCellIdDaoJDBCImpl.java:116)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.<init>(OpenCellIdDaoJDBCImpl.java:22)
+	at factory.OpenCellIdDaoFactory.getInstance(OpenCellIdDaoFactory.java:20)
+	at service.OpenCellIdServiceImpl.build(OpenCellIdServiceImpl.java:33)
+	at factory.OpenCellIdServiceFactory.getInstance(OpenCellIdServiceFactory.java:15)
+	at Main.main(Main.java:19)
+2019-10-10 21:55:41 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:55:41 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:56:01 ERROR OpenCellIdDaoFactory:22 - Failed initialization of DAO Layer
+org.postgresql.util.PSQLException: ОШИБКА: ошибка синтаксиса (примерное положение: "IF")
+  Позиция: 42
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2468)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2211)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:309)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:446)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:370)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:149)
+	at org.postgresql.jdbc.PgPreparedStatement.execute(PgPreparedStatement.java:138)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.createTable(OpenCellIdDaoJDBCImpl.java:116)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.<init>(OpenCellIdDaoJDBCImpl.java:22)
+	at factory.OpenCellIdDaoFactory.getInstance(OpenCellIdDaoFactory.java:20)
+	at service.OpenCellIdServiceImpl.build(OpenCellIdServiceImpl.java:33)
+	at factory.OpenCellIdServiceFactory.getInstance(OpenCellIdServiceFactory.java:15)
+	at Main.main(Main.java:19)
+2019-10-10 21:56:01 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:56:01 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:56:29 ERROR OpenCellIdDaoFactory:22 - Failed initialization of DAO Layer
+org.postgresql.util.PSQLException: ОШИБКА: отношение "opencellid_id_uindex" уже существует
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2468)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2211)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:309)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:446)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:370)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:149)
+	at org.postgresql.jdbc.PgPreparedStatement.execute(PgPreparedStatement.java:138)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.createTable(OpenCellIdDaoJDBCImpl.java:116)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.<init>(OpenCellIdDaoJDBCImpl.java:22)
+	at factory.OpenCellIdDaoFactory.getInstance(OpenCellIdDaoFactory.java:20)
+	at service.OpenCellIdServiceImpl.build(OpenCellIdServiceImpl.java:33)
+	at factory.OpenCellIdServiceFactory.getInstance(OpenCellIdServiceFactory.java:15)
+	at Main.main(Main.java:19)
+2019-10-10 21:56:29 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:56:29 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:57:11 ERROR OpenCellIdDaoFactory:22 - Failed initialization of DAO Layer
+org.postgresql.util.PSQLException: ОШИБКА: ошибка синтаксиса (примерное положение: "NOT")
+  Позиция: 24
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2468)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2211)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:309)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:446)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:370)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:149)
+	at org.postgresql.jdbc.PgPreparedStatement.execute(PgPreparedStatement.java:138)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.createTable(OpenCellIdDaoJDBCImpl.java:116)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.<init>(OpenCellIdDaoJDBCImpl.java:22)
+	at factory.OpenCellIdDaoFactory.getInstance(OpenCellIdDaoFactory.java:20)
+	at service.OpenCellIdServiceImpl.build(OpenCellIdServiceImpl.java:33)
+	at factory.OpenCellIdServiceFactory.getInstance(OpenCellIdServiceFactory.java:15)
+	at Main.main(Main.java:19)
+2019-10-10 21:57:11 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:57:11 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:59:14 ERROR OpenCellIdDaoFactory:22 - Failed initialization of DAO Layer
+org.postgresql.util.PSQLException: ОШИБКА: ошибка синтаксиса (примерное положение: "NOT")
+  Позиция: 24
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2468)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2211)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:309)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:446)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:370)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:149)
+	at org.postgresql.jdbc.PgPreparedStatement.execute(PgPreparedStatement.java:138)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.createTable(OpenCellIdDaoJDBCImpl.java:116)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.<init>(OpenCellIdDaoJDBCImpl.java:22)
+	at factory.OpenCellIdDaoFactory.getInstance(OpenCellIdDaoFactory.java:20)
+	at service.OpenCellIdServiceImpl.build(OpenCellIdServiceImpl.java:33)
+	at factory.OpenCellIdServiceFactory.getInstance(OpenCellIdServiceFactory.java:15)
+	at Main.main(Main.java:19)
+2019-10-10 21:59:14 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 21:59:14 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 22:01:11 ERROR OpenCellIdDaoFactory:22 - Failed initialization of DAO Layer
+org.postgresql.util.PSQLException: ОШИБКА: ошибка синтаксиса (примерное положение: "NOT")
+  Позиция: 24
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2497)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2233)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:310)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:446)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:370)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:149)
+	at org.postgresql.jdbc.PgPreparedStatement.execute(PgPreparedStatement.java:138)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.createTable(OpenCellIdDaoJDBCImpl.java:118)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.<init>(OpenCellIdDaoJDBCImpl.java:22)
+	at factory.OpenCellIdDaoFactory.getInstance(OpenCellIdDaoFactory.java:20)
+	at service.OpenCellIdServiceImpl.build(OpenCellIdServiceImpl.java:33)
+	at factory.OpenCellIdServiceFactory.getInstance(OpenCellIdServiceFactory.java:15)
+	at Main.main(Main.java:19)
+2019-10-10 22:01:12 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 22:01:12 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 22:02:10 ERROR OpenCellIdDaoFactory:22 - Failed initialization of DAO Layer
+org.postgresql.util.PSQLException: ОШИБКА: ошибка синтаксиса (примерное положение: "NOT")
+  Позиция: 24
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2497)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2233)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:310)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:446)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:370)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:149)
+	at org.postgresql.jdbc.PgPreparedStatement.execute(PgPreparedStatement.java:138)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.createTable(OpenCellIdDaoJDBCImpl.java:118)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.<init>(OpenCellIdDaoJDBCImpl.java:22)
+	at factory.OpenCellIdDaoFactory.getInstance(OpenCellIdDaoFactory.java:20)
+	at service.OpenCellIdServiceImpl.build(OpenCellIdServiceImpl.java:33)
+	at factory.OpenCellIdServiceFactory.getInstance(OpenCellIdServiceFactory.java:15)
+	at Main.main(Main.java:19)
+2019-10-10 22:02:10 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 22:02:10 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 22:02:31 ERROR OpenCellIdDaoFactory:22 - Failed initialization of DAO Layer
+org.postgresql.util.PSQLException: ОШИБКА: ошибка синтаксиса (примерное положение: "NOT")
+  Позиция: 17
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2497)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2233)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:310)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:446)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:370)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:149)
+	at org.postgresql.jdbc.PgPreparedStatement.execute(PgPreparedStatement.java:138)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.createTable(OpenCellIdDaoJDBCImpl.java:118)
+	at dao.jdbcImpl.OpenCellIdDaoJDBCImpl.<init>(OpenCellIdDaoJDBCImpl.java:22)
+	at factory.OpenCellIdDaoFactory.getInstance(OpenCellIdDaoFactory.java:20)
+	at service.OpenCellIdServiceImpl.build(OpenCellIdServiceImpl.java:33)
+	at factory.OpenCellIdServiceFactory.getInstance(OpenCellIdServiceFactory.java:15)
+	at Main.main(Main.java:19)
+2019-10-10 22:02:31 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 22:02:31 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 22:23:11 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 22:23:11 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-10 22:23:12 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 22:23:12 INFO  OpenCellIdServiceImpl:50 - 0,001 operations/sec
+2019-10-10 22:23:13 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 22:23:13 INFO  OpenCellIdServiceImpl:50 - 0,0005 operations/sec
+2019-10-10 22:23:14 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 22:23:14 INFO  OpenCellIdServiceImpl:50 - 0,0004 operations/sec
+2019-10-10 22:23:15 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 22:23:15 INFO  OpenCellIdServiceImpl:50 - 0,0003 operations/sec
+2019-10-10 22:23:16 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 22:23:16 INFO  OpenCellIdServiceImpl:50 - 0,0002 operations/sec
+2019-10-10 22:23:17 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 22:23:17 INFO  OpenCellIdServiceImpl:50 - 0,0002 operations/sec
+2019-10-10 22:23:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 22:23:18 INFO  OpenCellIdServiceImpl:50 - 0,0002 operations/sec
+2019-10-10 22:23:19 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 22:23:19 INFO  OpenCellIdServiceImpl:50 - 0,0001 operations/sec
+2019-10-10 22:23:21 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 22:23:21 INFO  OpenCellIdServiceImpl:50 - 0,0001 operations/sec
+2019-10-10 22:23:21 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-10 22:23:21 INFO  OpenCellIdServiceImpl:50 - 0,0001 operations/sec
+2019-10-11 12:58:16 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-11 12:58:16 WARN  OpenCellIdServiceImpl:53 - All connections are busy. Try again later
+2019-10-11 12:58:17 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-11 12:58:17 INFO  OpenCellIdServiceImpl:50 - 0,0007 operations/sec
+2019-10-11 12:58:18 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-11 12:58:18 INFO  OpenCellIdServiceImpl:50 - 0,0004 operations/sec
+2019-10-11 12:58:19 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-11 12:58:19 INFO  OpenCellIdServiceImpl:50 - 0,0003 operations/sec
+2019-10-11 12:58:20 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-11 12:58:20 INFO  OpenCellIdServiceImpl:50 - 0,0002 operations/sec
+2019-10-11 12:58:21 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-11 12:58:21 INFO  OpenCellIdServiceImpl:50 - 0,0002 operations/sec
+2019-10-11 12:58:22 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-11 12:58:22 INFO  OpenCellIdServiceImpl:50 - 0,0002 operations/sec
+2019-10-11 12:58:23 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-11 12:58:23 INFO  OpenCellIdServiceImpl:50 - 0,0001 operations/sec
+2019-10-11 12:58:24 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-11 12:58:24 INFO  OpenCellIdServiceImpl:50 - 0,0001 operations/sec
+2019-10-11 12:58:25 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-11 12:58:25 INFO  OpenCellIdServiceImpl:50 - 0,0001 operations/sec
+2019-10-11 12:58:26 INFO  OpenCellIdServiceImpl:46 - Done, 1146 lines was write.
+2019-10-11 12:58:26 INFO  OpenCellIdServiceImpl:50 - 0,0001 operations/sec
